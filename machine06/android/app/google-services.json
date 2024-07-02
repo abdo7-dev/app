@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279326220201",
+    "project_id": "machine06",
+    "storage_bucket": "machine06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279326220201:android:6edacdb706e355e40f2eb8",
+        "android_client_info": {
+          "package_name": "com.example.machine06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OHSkSEKNZEZy3tCYX7AH3KtBRV0jHmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
